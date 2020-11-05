@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.projetoacad.projetoacad.resources;
+
+/**
+ * @author purpl
+ *
+ */
+public class UserResource {
+
+}

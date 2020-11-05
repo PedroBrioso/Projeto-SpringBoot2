@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.projetoacad.projetoacad.resources;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author purpl
+ *
+ */
+
+@RestController
+@RequestMapping(value = "/users")
+public class UserResource {
+
+}

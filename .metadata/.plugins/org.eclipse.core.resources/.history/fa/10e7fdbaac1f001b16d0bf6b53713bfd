@@ -1,0 +1,5 @@
+package com.projetoacad.projetoacad.entities;
+
+public class User {
+
+}
